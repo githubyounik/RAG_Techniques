@@ -1,3 +1,17 @@
+<div align="center">
+
+### 🎉 LAUNCH SPECIAL — JUST $0.99! 🎉
+
+# 📖 [**My RAG Techniques Book is LIVE on Amazon!**](https://amzn.to/4cvxqSw)
+
+### ⏰ **Limited-time launch price — [Grab your copy for $0.99 →](https://amzn.to/4cvxqSw)**
+
+*Everything in this repo, distilled and expanded into a structured, in-depth guide.*
+
+---
+
+</div>
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
