@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📖 [The RAG Techniques Book is HERE](https://amzn.to/4cvxqSw)
+# 📖 [The RAG Techniques Book is HERE](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=book-buy-amazon-title&target=https%3A%2F%2Famzn.to%2F4cvxqSw&text=The%20RAG%20Techniques%20Book%20is%20HERE)
 
 ### The super extended version of this repository
 
@@ -10,7 +10,7 @@ Built on top of everything in this repo, the book goes far deeper: the **intuiti
 
 The price goes up once the launch window closes. Readers who grab it now lock in the lowest price it will ever have, and get the same material that took months of research, writing, and iteration to put together.
 
-### 👉 [**Get the book on Amazon before the price changes**](https://amzn.to/4cvxqSw)
+### 👉 [**Get the book on Amazon before the price changes**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=book-buy-amazon-cta&target=https%3A%2F%2Famzn.to%2F4cvxqSw&text=Get%20the%20book%20on%20Amazon%20before%20the%20price%20changes)
 
 </div>
 
@@ -87,14 +87,14 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 </tr>
 </table>
 
-[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=newsletter-subscribe-button&target=https%3A%2F%2Fdiamantai.substack.com%2F%3Fr%3D336pe4%26utm_campaign%3Dpub-share-checklist&text=Subscribe%20to%20DiamantAI%20Newsletter)
 
 *Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special 33% discounts to my book and the upcoming RAG Techniques course!***
 </div>
 
 
 
-[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![DiamantAI's newsletter](images/substack_image.png)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=newsletter-subscribe-image&target=https%3A%2F%2Fdiamantai.substack.com%2F%3Fr%3D336pe4%26utm_campaign%3Dpub-share-checklist&text=DiamantAI%27s%20newsletter)
 
 
 ## Introduction
